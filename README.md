@@ -1,11 +1,12 @@
 # 안녕하세요, I'm Haneul.
 
 
-[![tistory - 블로그](https://img.shields.io/static/v1?label=tistory&message=블로그&color=%23EE817B&style=for-the-badge)](https://kicksky.tistory.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tjatscha)
-[![portfolio - 포트폴리오](https://img.shields.io/static/v1?label=portfolio&message=포트폴리오&color=%23FAE474&style=for-the-badge)](https://portfolio.haneulcha.com/)
-[![résumé - 이력서](https://img.shields.io/static/v1?label=résumé&message=이력서&color=%238DD0DC&style=for-the-badge)](https://haneulcha.com/about)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haneulcha/)
+[![tistory - 블로그](https://img.shields.io/static/v1?label=tistory&message=블로그&color=%23EE817B&style=flat)](https://kicksky.tistory.com/)
+[![portfolio - 포트폴리오](https://img.shields.io/static/v1?label=portfolio&message=포트폴리오&color=%23FAE474&style=flat)](https://portfolio.haneulcha.com/)
+[![résumé - 이력서](https://img.shields.io/static/v1?label=résumé&message=이력서&color=%238DD0DC&style=flat)](https://haneulcha.com/about)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haneulcha/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/_989cha)
 
 ## TOOL
 
